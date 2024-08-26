@@ -1,0 +1,10 @@
+# START: Mon 26 Aug 2024 10:25
+# ######################################
+# https://doit.vlsm.org/ETC/logCodes.txt
+# ######################################
+#
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
+
+L00 General, etc.
