@@ -7,4 +7,5 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
-L00 General, etc.
+ZCZC WEEK00 15 L03 GitHub and git related, including commit, push, pull
+ZCZC WEEK00 15 L10 Assignment #00
