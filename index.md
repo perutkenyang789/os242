@@ -1,5 +1,5 @@
-#OS242: perutkenyang789
-### by: Kanda Mahendra - Operating Systems Class
+# OS242: perutkenyang789
+by: **Kanda Mahendra** - Operating Systems Class
 
 ---
 
