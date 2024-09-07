@@ -1,4 +1,3 @@
-# START: Mon 26 Aug 2024 10:25
 # ####################################### https://doit.vlsm.org/ETC/logCodes.txt
 # ######################################
 #
@@ -9,4 +8,19 @@
 ZCZC WEEK00 15 L03 GitHub and git related, including commit, push, pull
 ZCZC WEEK00 15 L10 Assignment #00
 ZCZC WEEK00 5 L03 GitHub and git related, including commit, push, pull
-ZCZC WEEK01 180 L09 Assignment in General
+ZCZC WEEK01 240 L11 Assignment #01
+ZCZC WEEK01 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC WEEK01 30 L08 OS Chat related with Friend
+ZCZC WEEK01 30 L05 Quiz related including studying
+ZCZC WEEK01 5 L12 Assignment #02
+ZCZC WEEK01 60 L13 Assignment #03
+ZCZC WEEK01 30 L14 Assignment #04
+ZCZC WEEK01 5 L15 Assignment #05
+ZCZC WEEK01 10 L03 GitHub and git related, including commit, push, pull
+
+
+# REV04: Sun 08 Sep 2024 02:28
+# REV03: Fri 06 Sep 2024 11:01
+# REV02: Sun 01 Sep 2024 14:01
+# REV01: Thu 29 Aug 2024 23:32
+# START: Mon 26 Aug 2024 10:25
