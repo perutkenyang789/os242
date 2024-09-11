@@ -2,15 +2,15 @@
 permalink: LINKS/
 ---
 
-<h1>LINKS</h1>
+# LINKS
 
-<h4>Hello everyone! This page will contain links from my OS class bookmarks.</h4>
+#### Hello everyone! This page will contain links from my OS class bookmarks.
 
 >N.B. This page will grow overtime
 
 ---
 
-<h2>WEEK 00</h2>
+## WEEK 00
 + [Lecture Slide](https://docos.vlsm.org/Slides/os00.pdf)
 + Weekly Assignment:
 	[1. GitHub Account and Repository](https://demos.vlsm.org/W00-01.html) -- Done
@@ -22,7 +22,7 @@ permalink: LINKS/
 + Aditional Links & Information:
 	- You are perutkenyang789! Not cbkadal!
 
-<h2>WEEK 01</h2>
+## WEEK 01
 + [Lecture Slide](https://docos.vlsm.org/Slides/os01.pdf)
 + Weekly Assignment:
 	[1. Setup a Virtual Debian Guest](https://demos.vlsm.org/W01-01.html) -- Done
@@ -39,5 +39,5 @@ permalink: LINKS/
 
 ---
 
-<h1>Thank You</h1>
+# Thank You
 -[perutkenyang789](https://github.com/perutkenyang789)
