@@ -42,4 +42,4 @@ permalink: LINKS/
 ---
 
 # Thank You
--[perutkenyang789](https://github.com/perutkenyang789)
+- [perutkenyang789](https://github.com/perutkenyang789)
