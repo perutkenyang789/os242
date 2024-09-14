@@ -17,8 +17,12 @@ ZCZC WEEK01 60 L13 Assignment #03
 ZCZC WEEK01 30 L14 Assignment #04
 ZCZC WEEK01 5 L15 Assignment #05
 ZCZC WEEK01 10 L03 GitHub and git related, including commit, push, pull
+ZCZC WEEK02 15 L03 GitHub and git related, including commit, push, pull
+ZCZC WEEK02 15 L11 Assignment #01
+ZCZC WEEK02 20 L12 Assignment #02
 
-
+# REV06: Sun 15 Sep 2024 04:08
+# REV05: Thu 12 Sep 2024 10:31
 # REV04: Sun 08 Sep 2024 02:28
 # REV03: Fri 06 Sep 2024 11:01
 # REV02: Sun 01 Sep 2024 14:01
