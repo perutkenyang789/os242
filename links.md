@@ -44,16 +44,16 @@ permalink: LINKS/
 ## WEEK 02
 ### [Lecture Slide](https://docos.vlsm.org/Slides/os01.pdf)
 ### Weekly Assignment:
-1. [Readings, Watchings, and Demos](https://demos.vlsm.org/W02-01.html)
-1. [GnuPG](https://demos.vlsm.org/W02-02.html)
-1. Update “LINKS/”
-1. [Review links every week!](https://demos.vlsm.org/W02-08.html)
-1. [Back up Your SSH and GPG keys!](https://demos.vlsm.org/W02-11.html)
-1. [Assignment Script](https://demos.vlsm.org/W02-10.html)
-1. [Finishing](https://demos.vlsm.org/W02-09.html)
-1. Recheck folder "TXT/"
-1. Submit (PUSH) your assignments
-1. Backup!
+1. [Readings, Watchings, and Demos](https://demos.vlsm.org/W02-01.html) -- Done
+1. [GnuPG](https://demos.vlsm.org/W02-02.html) -- Done
+1. Update “LINKS/” -- Done
+1. [Review links every week!](https://demos.vlsm.org/W02-08.html) -- Done
+1. [Back up Your SSH and GPG keys!](https://demos.vlsm.org/W02-11.html) -- Done
+1. [Assignment Script](https://demos.vlsm.org/W02-10.html) -- Done
+1. [Finishing](https://demos.vlsm.org/W02-09.html) -- Done
+1. Recheck folder "TXT/" -- Done
+1. Submit (PUSH) your assignments -- Done
+1. Backup! -- Done
 
 ### Aditional Links & Information:
 - You are perutkenyang789! Not cbkadal!
