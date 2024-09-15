@@ -42,7 +42,7 @@ permalink: LINKS/
 ---
 
 ## WEEK 02
-### [Lecture Slide](https://docos.vlsm.org/Slides/os01.pdf)
+### [Lecture Slide](https://docos.vlsm.org/Slides/os02.pdf)
 ### Weekly Assignment:
 1. [Readings, Watchings, and Demos](https://demos.vlsm.org/W02-01.html) -- Done
 1. [GnuPG](https://demos.vlsm.org/W02-02.html) -- Done
