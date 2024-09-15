@@ -5,28 +5,29 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
-ZCZC WEEK00 15 L03 GitHub and git related, including commit, push, pull
-ZCZC WEEK00 15 L10 Assignment #00
-ZCZC WEEK00 5 L03 GitHub and git related, including commit, push, pull
-ZCZC WEEK01 240 L11 Assignment #01
-ZCZC WEEK01 200 L02 CLASSROOM/ZOOM meetings related
-ZCZC WEEK01 30 L08 OS Chat related with Friend
-ZCZC WEEK01 30 L05 Quiz related including studying
-ZCZC WEEK01 5 L12 Assignment #02
-ZCZC WEEK01 60 L13 Assignment #03
-ZCZC WEEK01 30 L14 Assignment #04
-ZCZC WEEK01 5 L15 Assignment #05
-ZCZC WEEK01 10 L03 GitHub and git related, including commit, push, pull
-ZCZC WEEK02 15 L03 GitHub and git related, including commit, push, pull
-ZCZC WEEK02 15 L11 Assignment #01
-ZCZC WEEK02 20 L12 Assignment #02
-ZCZC WEEK02 10 L13 Assignment #03
-ZCZC WEEK02 15 L14 Assignment #04
-ZCZC WEEK02 15 L15 Assignment #05
-ZCZC WEEK02 30 L16 Assignment #06
-ZCZC WEEK02 15 L17 Assignment #07
-ZCZC WEEK02 59 L09 Assignment in General
+ZCZC W02 59 L09 Assignment in General
+ZCZC W02 15 L17 Assignment #07
+ZCZC W02 30 L16 Assignment #06
+ZCZC W02 15 L15 Assignment #05
+ZCZC W02 15 L14 Assignment #04
+ZCZC W02 10 L13 Assignment #03
+ZCZC W02 20 L12 Assignment #02
+ZCZC W02 15 L11 Assignment #01
+ZCZC W02 15 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 5 L15 Assignment #05
+ZCZC W01 30 L14 Assignment #04
+ZCZC W01 60 L13 Assignment #03
+ZCZC W01 5 L12 Assignment #02
+ZCZC W01 30 L05 Quiz related including studying
+ZCZC W01 30 L08 OS Chat related with Friend
+ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 240 L11 Assignment #01
+ZCZC W00 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 15 L10 Assignment #00
+ZCZC W00 15 L03 GitHub and git related, including commit, push, pull
 
+# REV09: Mon 16 Sep 2024 06:54
 # REV08: Sun 15 Sep 2024 12:27
 # REV07: Sun 15 Sep 2024 11:28
 # REV06: Sun 15 Sep 2024 04:08
