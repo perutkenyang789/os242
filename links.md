@@ -61,5 +61,20 @@ permalink: LINKS/
 
 ---
 
+## WEEK 03
+### [Lecture Slide](https://docos.vlsm.org/Slides/os03.pdf)
+### Weekly Assignment:
+1. [Readings and Demos](https://demos.vlsm.org/W03-01.html) -- Done
+1. Back up Your SSH and GPG keys! -- Done
+1. [Add/Create An Extra Virtual Disk](https://demos.vlsm.org/W03-02.html) -- Done
+1. [Assignment Script](https://demos.vlsm.org/W03-08.html) -- Done
+1. [Finishing](https://demos.vlsm.org/W03-09.html) -- Done
+1. Recheck folder "TXT/" -- Done
+1. Submit (PUSH) your assignments -- Done
+1. Backup! -- Done
+
+### Aditional Links & Information:
+- You are perutkenyang789! Not cbkadal!
+
 # Thank You
 - [perutkenyang789](https://github.com/perutkenyang789)
