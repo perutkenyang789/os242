@@ -6,6 +6,8 @@ https://doit.vlsm.org/ETC/logCodes.txt
 # ZCZC W# MINUTES LogCode Description
 # LogCode + Description List
 
+ZCZC W03 60 L09 Assignment in General
+ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 15 L09 Assignment in General
 ZCZC W03 120 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W03 60 L15 Assignment #05
@@ -36,6 +38,7 @@ ZCZC W00 5 L03 GitHub and git related, including commit, push, pull
 ZCZC W00 15 L10 Assignment #00
 ZCZC W00 15 L03 GitHub and git related, including commit, push, pull
 
+# REV11: Tue 24 Sep 2024 22:39
 # REV10: Thu 19 Sep 2024 15:46
 # REV09: Mon 16 Sep 2024 06:54
 # REV08: Sun 15 Sep 2024 12:27
