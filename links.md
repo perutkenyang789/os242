@@ -76,5 +76,22 @@ permalink: LINKS/
 ### Aditional Links & Information:
 - You are perutkenyang789! Not cbkadal!
 
+---
+
+## WEEK 04
+### [Lecture Slide](https://docos.vlsm.org/Slides/os04.pdf)
+### Weekly Assignment:
+1. [Readings and Demos](https://demos.vlsm.org/W04-01.html) -- Done
+1. Back up Your SSH and GPG keys! -- Done
+1. [Assignment Script](https://demos.vlsm.org/W04-02.html) -- Done
+1. [Compiling The Linux Programming Interface (TLPI)](https://demos.vlsm.org/W04-03.html) -- Done
+1. [Finishing](https://demos.vlsm.org/W04-04.html) -- Done
+1. Recheck folder "TXT/" -- Done
+1. Submit (PUSH) your assignments -- Done
+1. Backup! -- Done
+
+### Aditional Links & Information:
+- You are perutkenyang789! Not cbkadal!
+
 # Thank You
 - [perutkenyang789](https://github.com/perutkenyang789)
