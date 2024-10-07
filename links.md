@@ -92,6 +92,31 @@ permalink: LINKS/
 
 ### Aditional Links & Information:
 - You are perutkenyang789! Not cbkadal!
+- [Lecture on Memory](https://youtu.be/uFj7mKNq1t0) -- by Pak M. Anwar Ma'sum' (2021)
+- [scp Guide](https://www.youtube.com/watch?v=2u0I-U0D7Uk) -- A tutorial on how to copy file between local and remote
+
+---
+
+## WEEK 05
+### [Lecture Slide](https://docos.vlsm.org/Slides/os05.pdf)
+### Weekly Assignment:
+1. [Readings and Demos](https://demos.vlsm.org/W05-01.html) -- Done
+1. Back up Your SSH and GPG keys! -- Done
+1. [How Low (Memory) Can You Go?](https://demos.vlsm.org/W05-02.html) -- Done
+1. [Assignment Script](https://demos.vlsm.org/W05-03.html) -- Done
+1. [Memory](https://demos.vlsm.org/W05-04.html) -- Done
+1. [Finishing](https://demos.vlsm.org/W05-05.html) -- Done
+1. Recheck folder "TXT/" -- Done
+1. Submit (PUSH) your assignments -- Done
+1. Backup! -- Done
+
+### Aditional Links & Information:
+- You are perutkenyang789! Not cbkadal!
+- [Bubble Sort](https://www.geeksforgeeks.org/bubble-sort-algorithm/) -- An article about a simple sorting algorithm
+- [C Language Tutorial](https://www.w3schools.com/c/index.php) -- A full web tutorial for learning C
+- [Linux went Panic!](https://youtu.be/obRacKML3vA?si=A20snxdXA1bdUGOS) -- A video explaining of how Linux reacts when it boots with too little memory
+
+## [Weekly Study Playlist](https://open.spotify.com/playlist/3Sw3fNrFOBRbFV6W3Yhdqm?si=XbfSr9pNREaALfojL6_Zog) -- Open on Spotify!
 
 # Thank You
 - [perutkenyang789](https://github.com/perutkenyang789)
