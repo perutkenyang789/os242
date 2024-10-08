@@ -116,7 +116,5 @@ permalink: LINKS/
 - [C Language Tutorial](https://www.w3schools.com/c/index.php) -- A full web tutorial for learning C
 - [Linux went Panic!](https://youtu.be/obRacKML3vA?si=A20snxdXA1bdUGOS) -- A video explaining of how Linux reacts when it boots with too little memory
 
-## [Weekly Study Playlist](https://open.spotify.com/playlist/3Sw3fNrFOBRbFV6W3Yhdqm?si=XbfSr9pNREaALfojL6_Zog) -- Open on Spotify!
-
 # Thank You
 - [perutkenyang789](https://github.com/perutkenyang789)
