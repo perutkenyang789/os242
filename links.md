@@ -116,5 +116,22 @@ permalink: LINKS/
 - [C Language Tutorial](https://www.w3schools.com/c/index.php) -- A full web tutorial for learning C
 - [Linux went Panic!](https://youtu.be/obRacKML3vA?si=A20snxdXA1bdUGOS) -- A video explaining of how Linux reacts when it boots with too little memory
 
+## WEEK 05
+### [Lecture Slide](https://docos.vlsm.org/Slides/os06.pdf)
+### Weekly Assignment:
+1. [Readings and Demos](https://demos.vlsm.org/W06-01.html) -- Done
+1. Back up Your SSH and GPG keys! -- Done
+1. [Assignment Script](https://demos.vlsm.org/W06-02.html) -- Done
+1. [Memory](https://demos.vlsm.org/W06-03.html) -- Done
+1. [Finishing](https://demos.vlsm.org/W06-04.html) -- Done
+1. Recheck folder "TXT/" -- Done
+1. Submit (PUSH) your assignments -- Done
+1. Backup! -- Done
+
+### Aditional Links & Information:
+- You are perutkenyang789! Not cbkadal!
+- [My 242saurus](https://demos.vlsm.org/W06-04.html) -- My Docusaurus github page
+- [Docusaurus from ZERO to HERO](https://www.youtube.com/watch?v=Aw9D0YMK8Sk) - A crash course on developing your docusaurus page
+
 # Thank You
 - [perutkenyang789](https://github.com/perutkenyang789)

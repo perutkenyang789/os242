@@ -6,6 +6,10 @@ https://doit.vlsm.org/ETC/logCodes.txt
 # ZCZC W# MINUTES LogCode Description
 # LogCode + Description List
 
+ZCZC W06 100 L09 Assignment in General
+ZCZC W06 20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 180 L09 Assignment in General
 ZCZC W05 40 L09 Assignment in General
 ZCZC W05 15 L03 GitHub and git related, including commit, push, pull
 ZCZC W05 60 L09 Assignment in General
@@ -49,6 +53,7 @@ ZCZC W00 5 L03 GitHub and git related, including commit, push, pull
 ZCZC W00 15 L10 Assignment #00
 ZCZC W00 15 L03 GitHub and git related, including commit, push, pull
 
+# REV14: Tue 29 Oct 2024 16:14
 # REV13: Tue 08 Oct 2024 17:00
 # REV12: Sun 29 Sep 2024 12:20
 # REV11: Tue 24 Sep 2024 22:39
