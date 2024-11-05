@@ -6,6 +6,13 @@ https://doit.vlsm.org/ETC/logCodes.txt
 # ZCZC W# MINUTES LogCode Description
 # LogCode + Description List
 
+ZCZC W07 150 L09 Assignment in General
+ZCZC W07 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W07 10 L07 Demo related
+ZCZC W07 150 L09 Assignment in General
+ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 50 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W06 100 L09 Assignment in General
 ZCZC W06 20 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W06 200 L02 CLASSROOM/ZOOM meetings related

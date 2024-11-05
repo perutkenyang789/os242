@@ -116,7 +116,7 @@ permalink: LINKS/
 - [C Language Tutorial](https://www.w3schools.com/c/index.php) -- A full web tutorial for learning C
 - [Linux went Panic!](https://youtu.be/obRacKML3vA?si=A20snxdXA1bdUGOS) -- A video explaining of how Linux reacts when it boots with too little memory
 
-## WEEK 05
+## WEEK 06
 ### [Lecture Slide](https://docos.vlsm.org/Slides/os06.pdf)
 ### Weekly Assignment:
 1. [Readings and Demos](https://demos.vlsm.org/W06-01.html) -- Done
@@ -132,6 +132,23 @@ permalink: LINKS/
 - You are perutkenyang789! Not cbkadal!
 - [My 242saurus](https://demos.vlsm.org/W06-04.html) -- My Docusaurus github page
 - [Docusaurus from ZERO to HERO](https://www.youtube.com/watch?v=Aw9D0YMK8Sk) - A crash course on developing your docusaurus page
+
+## WEEK 07
+### [Lecture Slide](https://docos.vlsm.org/Slides/os07.pdf)
+### Weekly Assignment:
+1. [Readings and Demos](https://demos.vlsm.org/W07-01.html) -- Done
+1. [Assignment Script](https://demos.vlsm.org/W07-02.html) -- Done
+1. [Synchronization](https://demos.vlsm.org/W07-03.html) -- Done
+1. [Finishing](https://demos.vlsm.org/W07-04.html) -- Done
+1. Recheck folder "TXT/" -- Done
+1. Submit (PUSH) your assignments -- Done
+1. Backup! -- Done
+
+### Aditional Links & Information:
+- You are perutkenyang789! Not cbkadal!
+- [Semaphore](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) -- An article about semaphore in process synchronization
+- [Shared Memory Setup](https://youtu.be/WgVSq-sgHOc?si=o748WcM-OQyhKlqQ) -- A video tutorial on how to setup shared memory on linux
+- [Blog Writing Tips](https://youtu.be/Q8rN3JKqUc8?si=-gzLypajCcaiRLAo) -- A video on how to actually write a blog post
 
 # Thank You
 - [perutkenyang789](https://github.com/perutkenyang789)
