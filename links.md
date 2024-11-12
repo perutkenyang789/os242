@@ -150,5 +150,21 @@ permalink: LINKS/
 - [Shared Memory Setup](https://youtu.be/WgVSq-sgHOc?si=o748WcM-OQyhKlqQ) -- A video tutorial on how to setup shared memory on linux
 - [Blog Writing Tips](https://youtu.be/Q8rN3JKqUc8?si=-gzLypajCcaiRLAo) -- A video on how to actually write a blog post
 
+## WEEK 08
+### [Lecture Slide](https://docos.vlsm.org/Slides/os08.pdf)
+### Weekly Assignment:
+1. [Readings and Demos](https://demos.vlsm.org/W08-01.html) -- Done
+1. [Assignment Script](https://demos.vlsm.org/W08-02.html) -- Done
+1. [LFS 12.1 Chapter 01-05](https://demos.vlsm.org/W08-03.html) -- Done
+1. [Finishing](https://demos.vlsm.org/W08-04.html) -- Done
+1. Recheck folder "TXT/" -- Done
+1. Submit (PUSH) your assignments -- Done
+1. Backup! -- Done
+
+### Aditional Links & Information:
+- You are perutkenyang789! Not cbkadal!
+- [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.2/) -- The official LFS website
+- [Kernotex’s YouTube LFS 12.2 PlayList](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3) -- A youtube playlist on how to build LFS 12.2
+
 # Thank You
 - [perutkenyang789](https://github.com/perutkenyang789)
