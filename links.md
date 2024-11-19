@@ -179,7 +179,7 @@ permalink: LINKS/
 ### Weekly Assignment:
 1. [Readings and Demos](https://demos.vlsm.org/W09-01.html) -- Done
 1. [Assignment Script](https://demos.vlsm.org/W09-02.html) -- Done
-1. [LFS 12.1 Chapter 06-10](https://demos.vlsm.org/W09-03.html) -- Done
+1. [LFS 12.1 Chapter 06-07](https://demos.vlsm.org/W09-03.html) -- Done
 1. [Finishing](https://demos.vlsm.org/W09-04.html) -- Done
 1. Recheck folder "TXT/" -- Done
 1. Submit (PUSH) your assignments -- Done
