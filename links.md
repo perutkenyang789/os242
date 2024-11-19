@@ -116,6 +116,8 @@ permalink: LINKS/
 - [C Language Tutorial](https://www.w3schools.com/c/index.php) -- A full web tutorial for learning C
 - [Linux went Panic!](https://youtu.be/obRacKML3vA?si=A20snxdXA1bdUGOS) -- A video explaining of how Linux reacts when it boots with too little memory
 
+---
+
 ## WEEK 06
 ### [Lecture Slide](https://docos.vlsm.org/Slides/os06.pdf)
 ### Weekly Assignment:
@@ -132,6 +134,8 @@ permalink: LINKS/
 - You are perutkenyang789! Not cbkadal!
 - [My 242saurus](https://demos.vlsm.org/W06-04.html) -- My Docusaurus github page
 - [Docusaurus from ZERO to HERO](https://www.youtube.com/watch?v=Aw9D0YMK8Sk) - A crash course on developing your docusaurus page
+
+---
 
 ## WEEK 07
 ### [Lecture Slide](https://docos.vlsm.org/Slides/os07.pdf)
@@ -150,6 +154,8 @@ permalink: LINKS/
 - [Shared Memory Setup](https://youtu.be/WgVSq-sgHOc?si=o748WcM-OQyhKlqQ) -- A video tutorial on how to setup shared memory on linux
 - [Blog Writing Tips](https://youtu.be/Q8rN3JKqUc8?si=-gzLypajCcaiRLAo) -- A video on how to actually write a blog post
 
+---
+
 ## WEEK 08
 ### [Lecture Slide](https://docos.vlsm.org/Slides/os08.pdf)
 ### Weekly Assignment:
@@ -165,6 +171,22 @@ permalink: LINKS/
 - You are perutkenyang789! Not cbkadal!
 - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.2/) -- The official LFS website
 - [Kernotex’s YouTube LFS 12.2 PlayList](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3) -- A youtube playlist on how to build LFS 12.2
+
+---
+
+## WEEK 09
+### [Lecture Slide](https://docos.vlsm.org/Slides/os09.pdf)
+### Weekly Assignment:
+1. [Readings and Demos](https://demos.vlsm.org/W09-01.html) -- Done
+1. [Assignment Script](https://demos.vlsm.org/W09-02.html) -- Done
+1. [LFS 12.1 Chapter 06-10](https://demos.vlsm.org/W09-03.html) -- Done
+1. [Finishing](https://demos.vlsm.org/W09-04.html) -- Done
+1. Recheck folder "TXT/" -- Done
+1. Submit (PUSH) your assignments -- Done
+1. Backup! -- Done
+
+### Aditional Links & Information:
+- You are perutkenyang789! Not cbkadal!
 
 # Thank You
 - [perutkenyang789](https://github.com/perutkenyang789)
